@@ -1,6 +1,8 @@
-# File Organizer CLI
+# 📂 File Organizer CLI
 
-Utilitário em Python para organização automática de diretórios com base em extensões de arquivo.
+Script em Python para organizar automaticamente arquivos de uma pasta por categoria (Imagens, Documentos, Planilhas, Vídeos, Áudios, Compactados e Outros).
+
+Ideal para limpar pastas como Downloads de forma rápida e segura.
 
 ## Recursos
 
