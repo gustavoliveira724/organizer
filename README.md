@@ -11,6 +11,16 @@ Utilitário em Python para organização automática de diretórios com base em 
 
 ## Como Usar
 
-### 1. Organizar o diretório atual
+Copie e cole o comando referente ao seu caso de uso:
+
 ```bash
+# 1. Organizar a pasta atual onde o terminal está aberto
 python organizer.py
+
+# 2. Organizar uma pasta específica (caminho absoluto ou relativo)
+python organizer.py ~/Downloads
+python organizer.py /caminho/para/pasta
+
+# 3. Simular a organização sem mover nada (Dry-run) na pasta atual ou específica
+python organizer.py --dry-run
+python organizer.py ~/Downloads --dry-run
